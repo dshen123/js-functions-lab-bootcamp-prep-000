@@ -1,3 +1,3 @@
 // write your code below!
-function happyHolidays
+function String===happyHolidays()
 return "happy holidays!"
